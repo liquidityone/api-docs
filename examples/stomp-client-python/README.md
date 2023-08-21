@@ -5,5 +5,6 @@ Edit the `main.py` file and set the `API_KEY` and `API_SECRET` variables to your
 
 ## Run
 ```bash
+pip3 install -r requirements.txt
 python3 main.py
 ```
