@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@stomp/rx-stomp": "^2.0.0",
+    "ws": "^8.13.0"
+  },
+  "scripts": {
+    "start": "node stomp-client.js"
+  },
+  "type": "module"
+}
